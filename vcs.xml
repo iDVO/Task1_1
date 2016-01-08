@@ -10,6 +10,10 @@
           <option name="url" value="https://github.com/iDVO/Task1_1.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/iDVO/Ex.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="F:\Cloud\Java\prj" />
