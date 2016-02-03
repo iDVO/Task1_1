@@ -1,0 +1,9 @@
+<application>
+  <component name="ConsoleFoldingSettings">
+    <option name="addedPositive">
+      <list>
+        <option value="at java.lang.Class.getMethod(Class.java:1786)" />
+      </list>
+    </option>
+  </component>
+</application>
